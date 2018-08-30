@@ -8,7 +8,7 @@ A partir d'une image neural_sparse tentent de créer une nouvelle image proche m
 
 neural_sparseHALF ne contraint pas seulement l'encodage à la couche k mais la moitié supérieur des couches de convolutions du réseau.
 
-neural_sparseALL contraint toutes les couches de convolution du réseau.
+neural_sparseALL contraint toutes les couches de convolutions du réseau.
 
 Pour utiliser neural_sparse il suffit d'écrire dans l'invite de commande:
 
