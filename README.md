@@ -10,7 +10,7 @@ neural_sparseHALF ne contraint pas seulement l'encodage à la couche k mais la m
 
 neural_sparseALL contraint toutes les couches de convolution du réseau.
 
-Pour utiliser neural_sparse taper dans l'invite commande:
+Pour utiliser neural_sparse il suffit d'écrire dans l'invite de commande:
 
 python neural_sparse.py --img example.jpg --layer relu1-1 --output out.jpg
 
